@@ -10,6 +10,10 @@ This project is a minimal yet reliable food-ordering chatbot built with n8n. It 
 - **Simple Checkout**: A streamlined checkout process that confirms the order and provides an Order ID.
 - **Open-Source AI**: All AI processing is done locally using Ollama. No paid APIs are required.
 
+## Workflow Diagram
+
+![Workflow Diagram](assets/workflow-diagram.png)
+
 ## Tech Stack
 
 - **Orchestration**: n8n
