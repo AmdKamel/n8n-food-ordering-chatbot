@@ -1,0 +1,14 @@
+{
+  "burgers": [
+    { "code": "BG1", "name": "Classic Beef Burger", "price": 85 },
+    { "code": "BG2", "name": "Chicken Burger", "price": 75 }
+  ],
+  "sides": [
+    { "code": "SD1", "name": "Fries", "price": 30 },
+    { "code": "SD2", "name": "Onion Rings", "price": 35 }
+  ],
+  "drinks": [
+    { "code": "DR1", "name": "Cola", "price": 20 },
+    { "code": "DR2", "name": "Juice", "price": 25 }
+  ]
+}
